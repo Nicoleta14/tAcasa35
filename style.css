@@ -1,0 +1,18 @@
+body {
+    background-color: aquamarine;
+    font-family: Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container {
+    text-align: center;
+}
+
+#timeRemaining {
+    margin-top: 20px;
+    font-size: 20px;
+    color: green;
+}
